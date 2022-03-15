@@ -4,7 +4,7 @@ Projet de programmation d'un robot ramasseur de palets, réalisé par groupe de 
 
 Compétition : 2 robots s'affrontent sur un terrain composé de 9 palets. Le robot qui ramasse et dépose le plus de palets derrière sa ligne d'en-but remporte le match (les détails sont précisés dans le cahier des charges : Documents du projet/Cahier des charges.pdf)
  
-Le code utilisé pour programmer le robot Lego Mindstorms à l'aide de la librairie LeJOS se trouve dans le dossier src.
+Le code Java utilisé pour programmer le robot Lego Mindstorms à l'aide de la librairie LeJOS se trouve dans le dossier src.
 
 Tous les documents relatifs à la gestion du projet se trouvent en format PDF dans le dossier "Documents du projet".
 
